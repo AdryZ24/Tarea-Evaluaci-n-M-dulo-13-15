@@ -27,6 +27,9 @@ https://www.figma.com/make/z975FALp50VmaZqwNXWTun/Prototipo-app-EcoCity?p=f&t=BC
 
 ---
 
+🔗 **Enlace a la presentación canvas:**  
+https://www.canva.com/design/DAHAiRfqYjg/NDpDIRDo4QkUZ_BOmHI-3g/view?utm_content=DAHAiRfqYjg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbb0f2bc558
+
 ## 🔁 Prototipos
 
 - **Prototipo v1:**  
